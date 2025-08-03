@@ -1,11 +1,29 @@
-# Codeforces Submissions
+# Submissions
 
-Total accepted submissions: **573**
+*Auto-generated with ❤️ using [Codeforces Submission Fetcher](https://github.com/Andrew-Velox/codeforces-submission-fetcher)*
 
----
+## Introduction
+
+A repository to keep track of problem solving practice, containing solutions from platforms:
+
+• **Codeforces**
+
+> Codeforces is a website which hosts competitive programming contests: [http://codeforces.com](http://codeforces.com)
+
+## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |:-:|-------|----------|------|-----------|
+| 583 | [D - Subtract Min Sort](https://codeforces.com/contest/2060/problem/D) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2060/submission/332260961) | `greedy` `*1100` | Aug/03/2025 23:14 |
+| 582 | [B - Robot Program](https://codeforces.com/contest/2070/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2070/submission/332250946) | `brute force` `implementation` `math` `*1100` | Aug/03/2025 22:12 |
+| 581 | [B - Perfecto](https://codeforces.com/contest/2071/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2071/submission/332230979) | `brute force` `constructive algorithms` `greedy` `math` `*1100` | Aug/03/2025 19:42 |
+| 580 | [B - Vicious Labyrinth](https://codeforces.com/contest/2078/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2078/submission/332208442) | `constructive algorithms` `graphs` `greedy` `implementation` `math` `*1100` | Aug/03/2025 16:31 |
+| 579 | [B - MIN = GCD](https://codeforces.com/contest/2084/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2084/submission/332192394) | `greedy` `math` `number theory` `*1100` | Aug/03/2025 14:07 |
+| 578 | [B - Large Array and Segments](https://codeforces.com/contest/2086/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2086/submission/332179694) | `binary search` `brute force` `greedy` `*1100` | Aug/03/2025 12:08 |
+| 577 | [B - Wonderful Gloves](https://codeforces.com/contest/2096/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2096/submission/332127562) | `greedy` `math` `sortings` `*1100` | Aug/02/2025 22:51 |
+| 576 | [B - Binary Typewriter](https://codeforces.com/contest/2103/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2103/submission/332115679) | `greedy` `math` `*1100` | Aug/02/2025 21:29 |
+| 575 | [C - Card Game](https://codeforces.com/contest/2104/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2104/submission/332105873) | `brute force` `constructive algorithms` `games` `greedy` `math` `*1100` | Aug/02/2025 20:09 |
+| 574 | [B - Apples in Boxes](https://codeforces.com/contest/2107/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2107/submission/331998187) | `games` `greedy` `math` `*1100` | Aug/02/2025 00:02 |
 | 573 | [B - Fibonacci Cubes](https://codeforces.com/contest/2111/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2111/submission/331952040) | `brute force` `dp` `implementation` `math` `*1100` | Aug/01/2025 18:21 |
 | 572 | [C - Equal Values](https://codeforces.com/contest/2111/problem/C) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2111/submission/331935490) | `brute force` `greedy` `two pointers` `*1100` | Aug/01/2025 16:00 |
 | 571 | [B - Shrinking Array](https://codeforces.com/contest/2112/problem/B) | [C++23 (GCC 14-64, msys2)](https://codeforces.com/contest/2112/submission/331932422) | `brute force` `greedy` `*1100` | Aug/01/2025 15:34 |
@@ -582,4 +600,4 @@ Total accepted submissions: **573**
 
 ---
 
-*Generated automatically by [Codeforces Submission Fetcher](https://github.com/Andrew-Velox/codeforces-submission-fetcher)*
+**Total Solved Problems:** 583
